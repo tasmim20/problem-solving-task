@@ -48,8 +48,8 @@
 //   }
 //   return newArray;
 // };
-// const numbers = [2, 3, 6, 4, 4, 2, 8, 5, 2, 8];
-// // const newArr = new Set(numbers);
+// const numbers = [1, 2, 4, 4, 4, 5];
+// // // const newArr = new Set(numbers);
 // console.log(removeDuplicate(numbers));
 
 //Task: Find Maximum Value:
